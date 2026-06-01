@@ -196,8 +196,6 @@ Features:
 
 ### Demo Video
 
-Add your recording link here:
-
 ```text
 https://drive.google.com/file/d/1hu_K3qwh0Q7pkL4GDZyvaKpsQCs3zCcy/view?usp=sharing
 ```
