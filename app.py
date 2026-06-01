@@ -33,9 +33,8 @@ for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
 
-query = st.chat_input(
-    "Ask a question about the document..."
-)
+query = st.chat_input( "Ask a question about the document...")
+
 if query:
     st.session_state.messages.append(
         {
